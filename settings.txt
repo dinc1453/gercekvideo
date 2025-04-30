@@ -1,6 +1,6 @@
 {
   "appStatus": {
-    "active": true,
+    "active": true ,
     "reason": "Uygulama şu anda aktif."
   },
   "notification": {
