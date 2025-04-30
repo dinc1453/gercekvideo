@@ -1,1 +1,14 @@
-merhabalar
+{
+  "appStatus": {
+    "active": true,
+    "reason": "Uygulama şu anda aktif."
+  },
+  "notification": {
+    "id": 1,
+    "message": "Yeni güncelleme mevcut! Daha fazla özellik için uygulamayı güncelleyin.",
+    "title": "Güncelleme Bildirimi"
+  },
+  "ui": {
+    "welcomeMessage": "Hoş geldiniz! Bugün ne öğrenmek istersiniz?"
+  }
+}
