@@ -5,8 +5,8 @@
   },
   "notification": {
     "id": 1,
-    "message": "Yeni güncelleme mevcut! Daha fazla özellik için uygulamayı güncelleyin.",
-    "title": "Güncelleme Bildirimi"
+    "message": "Yeni güncelleme mevcut! Daha fazla özellik için uygulamayı güncelleyin....!",
+    "title": "Güncelleme Bildirimiiii"
   },
   "ui": {
     "welcomeMessage": "Hoş geldiniz! Bugün ne öğrenmek istersiniz?"
