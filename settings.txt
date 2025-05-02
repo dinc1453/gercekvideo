@@ -1,7 +1,7 @@
 {
   "appStatus": {
     "active": true ,
-    "reason": "10 dakikaya geri donecegız"
+    "reason": "10 dakikaya geri donecegız "
   },
   "notification": {
     "id": 1,
