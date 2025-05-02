@@ -1,6 +1,6 @@
 {
   "appStatus": {
-    "active": true ,
+    "active": false ,
     "reason": "10 dakikaya geri donecegız "
   },
   "notification": {
